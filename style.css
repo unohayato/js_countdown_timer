@@ -11,10 +11,20 @@ body {
 .container {
   position: absolute;
   top: 10rem;
+  margin: 0 auto;
 
 }
 
 .container .timer {
   font-size: 10rem;
   color: lightcoral;
+  margin-bottom: 10rem;
+  position: relative;
+  left: 5rem;
+}
+
+.container .text {
+  font-size: 7rem;
+  color: lightsalmon;
+  text-align: center;
 }
